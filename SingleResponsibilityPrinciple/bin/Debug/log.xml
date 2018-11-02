@@ -2,3 +2,7 @@
 <log><type>{0} trades processed</type><message>INFO</message></log>
 <log><type>Connecting to Database</type><message>INFO</message></log>
 <log><type>{0} trades processed</type><message>INFO</message></log>
+<log><type>Connecting to Database</type><message>INFO</message></log>
+<log><type>{0} trades processed</type><message>INFO</message></log>
+<log><type>Connecting to Database</type><message>INFO</message></log>
+<log><type>{0} trades processed</type><message>INFO</message></log>
